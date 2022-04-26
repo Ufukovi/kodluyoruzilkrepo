@@ -21,5 +21,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-![kodluyoruzresmi](https://www.google.com/search?q=kodluyoruz%20logo&tbm=isch&hl=tr&sa=X&ved=0CB0QtI8BKABqFwoTCJCI7oKLsvcCFQAAAAAdAAAAABAH&biw=1903&bih=969#imgrc=s_9DjRe3FgTwwM)
